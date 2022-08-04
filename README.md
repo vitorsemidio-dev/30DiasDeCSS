@@ -17,3 +17,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos
 ### Dia 01 - Cards HTML, CSS, JavaScript
 
 <img src="https://github.com/vitorsemidio-dev/30DiasDeCSS/blob/media/gifs/dia01.gif?raw=true" />
+
+### Dia 02 - Lista Streaming
+
+<img src="https://github.com/vitorsemidio-dev/30DiasDeCSS/blob/media/gifs/dia02.gif?raw=true" />
