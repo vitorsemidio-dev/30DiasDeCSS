@@ -21,3 +21,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos
 ### Dia 02 - Lista Streaming
 
 <img src="https://github.com/vitorsemidio-dev/30DiasDeCSS/blob/media/gifs/dia02.gif?raw=true" />
+
+### Dia 03 - Profile Card
+
+<img src="https://user-images.githubusercontent.com/52754546/183226823-b191a6d9-6eb2-4705-a3ca-859378cb51cd.gif" />
