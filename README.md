@@ -25,3 +25,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos
 ### Dia 03 - Profile Card
 
 <img src="https://user-images.githubusercontent.com/52754546/183226823-b191a6d9-6eb2-4705-a3ca-859378cb51cd.gif" />
+
+### Dia 04 - Input Search Creator Rocketseat
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183271227-5f82d272-897b-4f82-8b87-d655b95f3859.gif" />
