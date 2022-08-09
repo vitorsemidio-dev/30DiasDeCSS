@@ -33,3 +33,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos
 ### Dia 05 - Image Reflection
 
 <img src="https://user-images.githubusercontent.com/52754546/183328522-fdfe59b2-e7c9-4122-a90e-da9cc55bf95f.gif" />
+
+### Dia 06 - Summary Card
+
+<img src="https://user-images.githubusercontent.com/52754546/183552798-b255e932-bb0c-457d-b86b-153cdf2e5775.gif" />
