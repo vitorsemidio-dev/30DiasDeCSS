@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-react: #2CDBFF;
+  --clr-rocketseat-500: #7159C0;
+  --clr-rocketseat-700: #5F49AB;
+}
+
+html, body {
+  height: 100vh;
+}
+
+body {
+  background: var(--clr-react);
+}
+
+.container {
+  width: 250px;
+  height: 350px;
+  background: var(--clr-rocketseat-700);
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  perspective: 1000px;
+}
+
+.container h1, .container p, .container a {
+  padding-left: calc(40px + 1rem);
+  padding-right: 1rem;
+}
+
+.container h1 {
+  padding-top: 2rem;
+  padding-bottom: 0.75rem;
+  font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+  font-size: 1.125rem;
+  color: white;
+}
+
+.container p {
+  font-size: 0.875rem;
+  padding-bottom: 0.5rem;
+  text-align: justify;
+  color: rgba(255,255,255,0.6);
+}
+
+.container a {
+  color: var(--clr-react);
+  font-size: 0.75rem;
+  text-decoration: none;
+}
+
+.container a:hover {
+  text-decoration: underline;
+}
+
+.cover {
+  width: 210px;
+  height: 100%;
+  position: absolute;
+  left: 40px;
+  background-color: var(--clr-rocketseat-700);
+  transform: rotateY(-20deg);
+  transform-style: preserve-3d;
+  transform-origin: left;
+  transition: all .5s ease-in;
+}
+
+.container:hover .cover {
+  transform: rotateY(-180deg);
+}
+
+figure {
+  margin: 0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+figure.front {
+  background-image: url("https://blog.rocketseat.com.br/content/images/size/w2000/2019/03/React-Hooks-Comoutilizar--motivac-o-es-eexemplos-pra-ticos.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+figure.back {
+  background-image: radial-gradient(var(--clr-react), var(--clr-rocketseat-500), var(--clr-rocketseat-500));
+  transform: rotateY(180deg);
+}

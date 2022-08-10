@@ -22,6 +22,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 04 - Input Search Creator Rocketseat](#id04)
 - [Dia 05 - Image Reflection](#id05)
 - [Dia 06 - Summary Card](#id06)
+- [Dia 07 - 3D Animated Book](#id07)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -85,6 +86,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/WNzyLXX" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6962601393765404672-1s1M/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 07 - 3D Animated Book <a name="id07"></a>
+
+<img src="https://user-images.githubusercontent.com/52754546/183781052-6ec3cc99-1f80-4c1e-8c9b-6773182079e5.gif" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/ExEpWzB" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6962921263778418689/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6962921263778418689%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
