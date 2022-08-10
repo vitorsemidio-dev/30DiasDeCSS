@@ -23,10 +23,11 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 05 - Image Reflection](#id05)
 - [Dia 06 - Summary Card](#id06)
 - [Dia 07 - 3D Animated Book](#id07)
+- [Dia 08 - Loader](#id08)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183768753-74b1de63-8a87-4401-b74c-f8ed409cd60b.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183768753-74b1de63-8a87-4401-b74c-f8ed409cd60b.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/WNzzpNJ" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
@@ -37,7 +38,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ### 📅 Dia 02 - Lista Streaming <a name="id02"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183768809-0282652f-e8c1-41e3-9667-a32be3265c4a.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183768809-0282652f-e8c1-41e3-9667-a32be3265c4a.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/KKoojNm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
@@ -48,7 +49,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ### 📅 Dia 03 - Profile Card <a name="id03"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183226823-b191a6d9-6eb2-4705-a3ca-859378cb51cd.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183226823-b191a6d9-6eb2-4705-a3ca-859378cb51cd.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/NWYMajm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
@@ -70,7 +71,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ### 📅 Dia 05 - Image Reflection <a name="id05"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183768580-ea091c5c-16e0-4255-aa3c-c992811f8089.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183768580-ea091c5c-16e0-4255-aa3c-c992811f8089.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/QWmxEOK" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
@@ -81,7 +82,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ### 📅 Dia 06 - Summary Card <a name="id06"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183552798-b255e932-bb0c-457d-b86b-153cdf2e5775.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183552798-b255e932-bb0c-457d-b86b-153cdf2e5775.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/WNzyLXX" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
@@ -92,11 +93,22 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ### 📅 Dia 07 - 3D Animated Book <a name="id07"></a>
 
-<img src="https://user-images.githubusercontent.com/52754546/183781052-6ec3cc99-1f80-4c1e-8c9b-6773182079e5.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183781052-6ec3cc99-1f80-4c1e-8c9b-6773182079e5.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/ExEpWzB" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6962921263778418689/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6962921263778418689%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 08 - Loader <a name="id08"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/183879282-f8dac138-c32f-4c6d-aec5-588bc429dcd8.gif" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/qBoyojp" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6963077430106292224/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6963077430106292224%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
