@@ -112,3 +112,14 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 </div>
 
 ---
+
+### 📅 Dia 09 - Loader <a name="id09"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/184250084-3573e85f-7e8c-4cea-8367-b8d859488383.gif" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/vYRzezm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6963618690541981696-rcNW/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
