@@ -24,6 +24,8 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 06 - Summary Card](#id06)
 - [Dia 07 - 3D Animated Book](#id07)
 - [Dia 08 - Loader](#id08)
+- [Dia 09 - Charging](#id09)
+- [Dia 10 - Background Blend Mode Multiply](#id10)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -113,13 +115,24 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 ---
 
-### 📅 Dia 09 - Loader <a name="id09"></a>
+### 📅 Dia 09 - Charging <a name="id09"></a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/52754546/184250084-3573e85f-7e8c-4cea-8367-b8d859488383.gif" />
 
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/vYRzezm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6963618690541981696-rcNW/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 10 - Background Blend Mode Multiply <a name="id10"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/184447509-bb8ad59d-9650-4bbb-a70d-b1643dd3dad8.gif" alt="Background Blend Mode Multiply" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/YzaOojL" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6963968483206287360-7o3i/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
