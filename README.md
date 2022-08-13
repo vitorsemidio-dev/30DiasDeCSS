@@ -26,6 +26,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 08 - Loader](#id08)
 - [Dia 09 - Charging](#id09)
 - [Dia 10 - Background Blend Mode Multiply](#id10)
+- [Dia 10 - Glitch Effect](#id11)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -133,6 +134,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/YzaOojL" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6963968483206287360-7o3i/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 11 - Glitch Effect <a name="id11"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/184513673-034207a5-84aa-4a59-8c5a-1a0cf93c827a.gif" alt="Glitch Effect" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/abYRpwm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6964345769944334336-Kcgw?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
