@@ -26,7 +26,8 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 08 - Loader](#id08)
 - [Dia 09 - Charging](#id09)
 - [Dia 10 - Background Blend Mode Multiply](#id10)
-- [Dia 10 - Glitch Effect](#id11)
+- [Dia 11 - Glitch Effect](#id11)
+- [Dia 12 - Neon Text](#id12)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -145,6 +146,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/abYRpwm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6964345769944334336-Kcgw?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 12 - Neon Text <a name="id12"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/184549152-48fb646a-5e1e-4b17-9a5b-2a1356b5f1b5.gif" alt="Neon Text" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/dymgmMN" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6964644737626587136/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6964644737626587136%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---

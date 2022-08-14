@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap");
+
+:root {
+  --bg-color: #0aa1c2;
+  --clr-primary: #73beff;
+  --w-box: 600px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Nunito;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--bg-color);
+  overflow: hidden;
+}
+
+.box {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: var(--w-box);
+  height: 200px;
+}
+
+.box h2 {
+  color: #fff;
+  font-size: 4.5em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 10px var(--clr-primary);
+}
+
+.box .lightbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 100%;
+  background: #fff;
+  box-shadow: 0 0 10px var(--clr-primary);
+  border-radius: 10px;
+  z-index: 2;
+  animation: barAnimation 5s linear infinite;
+}
+
+@keyframes barAnimation {
+  0%,
+  5% {
+    transform: scaleY(0) translateX(0px);
+  }
+
+  10% {
+    transform: scaleY(1) translateX(0);
+  }
+
+  90% {
+    transform: scaleY(1) translateX(calc(var(--w-box) - 10px));
+  }
+
+  95%,
+  100% {
+    transform: scaleY(0) translateX(calc(var(--w-box) - 10px));
+  }
+}
+
+.box .topLayer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-color);
+
+  animation: topLayerAnimate 10s linear infinite;
+}
+
+@keyframes topLayerAnimate {
+  0%,
+  2.5% {
+    transform: translateX(0);
+  }
+
+  5% {
+    transform: translateX(0);
+  }
+
+  45% {
+    transform: translateX(100%);
+  }
+
+  47.5%,
+  50% {
+    transform: translateX(100%);
+  }
+
+  50.001%,
+  52.5% {
+    transform: translateX(-100%);
+  }
+
+  55% {
+    transform: translateX(-100%);
+  }
+
+  95% {
+    transform: translateX(0%);
+  }
+
+  97.5%,
+  100% {
+    transform: translateX(0%);
+  }
+}
