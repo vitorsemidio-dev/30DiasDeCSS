@@ -32,6 +32,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 14 - Isometric Menu Hover](#id14)
 - [Dia 15 - Form with Animated Background](#id15)
 - [Dia 16 - Progress Card](#id16)
+- [Dia 17 - Hero](#id17)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -205,6 +206,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/poLGzEN" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6966224797735247872--OF2/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+---
+
+### 📅 Dia 17 - Hero <a name="id17"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/185719484-6bb3c081-0064-4bb5-88cc-64e17ba94903.png" alt="Hero" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/OJvdOpW" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6966540800469942272-nrW6/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
