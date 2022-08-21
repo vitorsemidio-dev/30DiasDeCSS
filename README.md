@@ -33,7 +33,8 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 15 - Form with Animated Background](#id15)
 - [Dia 16 - Progress Card](#id16)
 - [Dia 17 - Hero](#id17)
-- [Dia 18 - Card Timeline](#id17)
+- [Dia 18 - Card Timeline](#id18)
+- [Dia 19 - House of the Dragon](#id19)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -230,5 +231,16 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
   <a href="https://codepen.io/vitorsemidio-dev/pen/zYWebPe" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
   <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6966939492196757504-6T_j?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+---
+
+### 📅 Dia 19 - House of the Dragon <a name="id19"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/185811503-6aa0aac9-fb3f-4a19-8eff-fb5fc4d0b9d0.png" alt="House of the Dragon" />
+
+<!-- <div  align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div> -->
 
 ---
