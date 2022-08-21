@@ -238,9 +238,9 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 
 <img width="100%" src="https://user-images.githubusercontent.com/52754546/185811503-6aa0aac9-fb3f-4a19-8eff-fb5fc4d0b9d0.png" alt="House of the Dragon" />
 
-<!-- <div  align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> -->
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/rNdRxag" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.linkedin.com/posts/vitor-de-santana-emidio_30diasdecss-html-css-activity-6967239321317728257-sLsR/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ---

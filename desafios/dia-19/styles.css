@@ -88,9 +88,12 @@ button {
   letter-spacing: 0px;
   line-height: 21px;
   text-transform: uppercase;
+
+  transition: all 0.3s;
 }
 
 .btn-cta:hover {
+  background-color: rgba(15, 15, 15, 0.85);
   border-color: var(--clr-primary);
 }
 
