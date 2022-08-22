@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Nunito Sans', sans-serif;
+	background-image: url('./img-space.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	font-size: 20vw;
+	font-weight: 900;
+	text-align: center;
+	text-transform: uppercase;
+	background: url('img-space.jpg');
+	-webkit-text-stroke: 2px #fff;
+	-webkit-background-clip: text;
+	color: transparent;
+	animation-name: text-background;
+	animation-duration: 60s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+@keyframes text-background {
+
+	0% { background-position: 0 0 }
+
+	50% { background-position: 100% 0 }
+	
+	100% { background-position: 0 0 }
+} 
