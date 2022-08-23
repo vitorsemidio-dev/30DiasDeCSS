@@ -35,7 +35,8 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 17 - Hero](#id17)
 - [Dia 18 - Card Timeline](#id18)
 - [Dia 19 - House of the Dragon](#id19)
-- [Dia 19 - Text with Background](#id20)
+- [Dia 20 - Text with Background](#id20)
+- [Dia 21 - 3D Rotating Image Gallery](#id21)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -252,6 +253,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/GRxeXZm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6967603009501474816/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 📅 Dia 21 - 3D Rotating Image Gallery <a name="id21"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/186280840-6ad503a7-a425-4150-a3a5-62f093fdd7f6.png" alt="3D Rotating Image Gallery" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/NWYmdog" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6967981331951550464/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
