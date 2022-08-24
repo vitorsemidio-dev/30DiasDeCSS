@@ -37,6 +37,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 19 - House of the Dragon](#id19)
 - [Dia 20 - Text with Background](#id20)
 - [Dia 21 - 3D Rotating Image Gallery](#id21)
+- [Dia 22 - Quem é esse Pokemon?](#id22)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -246,6 +247,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 </div>
 
 ---
+
 ### 📅 Dia 20 - Text with Background <a name="id20"></a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/52754546/186025941-338fd076-8f08-4b82-8505-e99cfa5feb64.png" alt="Text with Background" />
@@ -264,6 +266,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/NWYmdog" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6967981331951550464/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 📅 Dia 22 - Quem é esse Pokemon? <a name="id22"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/186543239-098370c6-0ece-4a95-8326-595f01615b69.png" alt="Quem é esse Pokemon?" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/LYdvowm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6968354498033381376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
