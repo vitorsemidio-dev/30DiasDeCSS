@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-cartoon-hand-drawn-street-background-design-paintedstreet-backgroundcity-roadillustration-image_64168.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.box {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  width: calc(832px / 6);
+  height: 139px;
+  background-image: url('spritestrip.avif');
+  animation: animate 1s steps(6) infinite;
+
+}
+
+@keyframes animate {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: 832px;
+  }
+}

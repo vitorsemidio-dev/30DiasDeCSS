@@ -38,6 +38,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 20 - Text with Background](#id20)
 - [Dia 21 - 3D Rotating Image Gallery](#id21)
 - [Dia 22 - Quem é esse Pokemon?](#id22)
+- [Dia 23 - Sprint Image](#id23)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -277,6 +278,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div  align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/LYdvowm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6968354498033381376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 📅 Dia 23 - Sprint Image <a name="id23"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/186804204-be721918-4bc4-42cf-b8f2-00c3f8b0e426.png" alt="Sprint Image" />
+
+<div  align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/PoRvQed" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6968756907402539009/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
