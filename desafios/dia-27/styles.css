@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1ED3F8;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 50px;
+  font-family: 'Press Start 2P', cursive;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+span::before {
+  content: '';
+  animation: emojis 3s infinite;
+}
+
+@keyframes emojis {
+  0%, 100% {
+    content: '🎮'
+  }
+  33% {
+    content: '🖥️';
+  }
+  66% {
+    content: '🕹️';
+  }
+}

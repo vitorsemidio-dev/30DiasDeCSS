@@ -42,6 +42,7 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 - [Dia 24 - QRCode](#id24)
 - [Dia 25 - Flipping Image](#id25)
 - [Dia 26 - Background Image](#id26)
+- [Dia 27 - Dia do Gamer](#id27)
 
 ### 📅 Dia 01 - Cards HTML, CSS, JavaScript <a name="id01"></a>
 
@@ -326,6 +327,17 @@ Melhorar minhas habilidades em CSS3 através da realização de projetos.
 <div align="center">
   <a href="https://codepen.io/vitorsemidio-dev/pen/jOzjvrm" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:6969804219729997824" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 📅 Dia 27 - Dia do Gamer <a name="id27"></a>
+
+<img width="100%" src="https://user-images.githubusercontent.com/52754546/187313822-c75cf7ae-525b-4e09-8f94-45c834c3d068.png" alt="Dia do Gamer" />
+
+<div align="center">
+  <a href="https://codepen.io/vitorsemidio-dev/pen/vYRoXZo" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6970156954094571520/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
